@@ -1,2 +1,3 @@
 # hello-world
-Learning repository
+Iam Narender Kumar
+learning Git & GitHub
